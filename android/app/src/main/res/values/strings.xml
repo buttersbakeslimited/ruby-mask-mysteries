@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ruby Mask Mysteries</string>
+    <string name="app_title">RUBY MASK MYSTERIES</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_spin">SPIN</string>
+    <string name="cta_spin_again">SPIN AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_end_session">END SESSION</string>
+    <string name="cta_enter_reels">ENTER REELS</string>
+    <string name="cta_back_to_reels">BACK TO REELS</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_claim">CLAIM</string>
+    <string name="cta_claim_today">CLAIM TODAY</string>
+    <string name="cta_come_back">COME BACK TOMORROW</string>
+    <string name="cta_take_break">TAKE A BREAK</string>
+    <string name="cta_reset_case">RESET CASE FILE</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_got_it">GOT IT</string>
+
+    <string name="route_lobby">SLOT LOBBY</string>
+    <string name="route_collection">COLLECTION</string>
+    <string name="route_missions">MISSIONS</string>
+    <string name="route_rewards">REWARDS</string>
+    <string name="route_settings">SETTINGS</string>
+    <string name="route_responsible">RESPONSIBLE GAMING</string>
+
+    <string name="splash_subtitle">THE MASKED BALL CASE FILE</string>
+    <string name="splash_loading">LOADING</string>
+    <string name="splash_disclaimer">18+ VIRTUAL CREDITS ONLY - NO REAL MONEY</string>
+
+    <string name="menu_tagline">UNMASK THE JEWEL THIEF, ONE SPIN AT A TIME</string>
+    <string name="badge_credits">CREDITS %1$s</string>
+    <string name="board_empty">PLAY A SESSION TO ENTER THE BALLROOM BOARD</string>
+
+    <string name="rival_carmine">LADY CARMINE</string>
+    <string name="rival_velvet_fox">THE VELVET FOX</string>
+    <string name="rival_ashwood">COUNT ASHWOOD</string>
+    <string name="rival_orris">MADAME ORRIS</string>
+    <string name="rival_you">YOU</string>
+
+    <string name="game_title">THE MASKED BALL</string>
+    <string name="game_case_of">CASE %1$d OF %2$d</string>
+    <string name="game_near_win">SO CLOSE - ONE MASK SHORT</string>
+
+    <string name="meter_label">MASK METER %1$d/%2$d</string>
+    <string name="meter_ready">METER READY</string>
+
+    <string name="stat_credits">CREDITS</string>
+    <string name="stat_bet">BET</string>
+    <string name="stat_last_win">LAST WIN</string>
+    <string name="stat_session_total">SESSION TOTAL</string>
+    <string name="stat_best_win">BEST WIN</string>
+    <string name="stat_spins">SPINS</string>
+    <string name="stat_shards">SHARDS FOUND</string>
+
+    <string name="state_ready">READY TO SPIN</string>
+    <string name="state_spinning">SPINNING</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="status_unlocked">UNLOCKED</string>
+    <string name="status_locked">OPENS AT CASE 3</string>
+    <string name="status_ready">READY</string>
+    <string name="status_claimed">CLAIMED TODAY</string>
+    <string name="status_claimed_short">CLAIMED</string>
+    <string name="status_waiting">LOCKED</string>
+
+    <string name="symbol_mask">RUBY MASK</string>
+    <string name="symbol_seven">GOLDEN SEVEN</string>
+    <string name="symbol_ruby">RUBY GEM</string>
+    <string name="symbol_sapphire">SAPPHIRE GEM</string>
+    <string name="symbol_bell">BALLROOM BELL</string>
+
+    <string name="cd_brand_logo">Joker mask emblem</string>
+    <string name="cd_back_home">Back to home</string>
+    <string name="cd_pause">Pause the session</string>
+
+    <string name="pause_title">CASE ON HOLD</string>
+    <string name="pause_body">The ballroom waits. Resume the hunt, read the responsible gaming notes, or step back to the entrance hall.</string>
+
+    <string name="break_title">TAKE A BREATH</string>
+    <string name="break_body">You have spun %1$d times this session. Virtual credits only, no cash-out, no prizes.</string>
+
+    <string name="over_title_closed">CASE FILE CLOSED</string>
+    <string name="over_title_empty">THE BALLROOM IS EMPTY</string>
+    <string name="over_no_stats">NO EVIDENCE GATHERED YET - SPIN THE CABINET TO OPEN THE CASE</string>
+    <string name="over_rank">BALLROOM RANK %1$d</string>
+    <string name="over_refill">THE HOUSE REFILLS YOUR TOKENS: +%1$d VIRTUAL CREDITS</string>
+    <string name="over_disclaimer">18+ SOCIAL CASINO - VIRTUAL CREDITS ONLY - NO CASH-OUT</string>
+
+    <string name="lobby_empty">NO FEATURES ON THE BILL TONIGHT</string>
+    <string name="preview_mask_vault">MASK VAULT</string>
+    <string name="preview_ruby_shards">RUBY SHARDS</string>
+    <string name="preview_clue_streak">CLUE STREAK</string>
+    <string name="preview_nightly_vault">NIGHTLY VAULT</string>
+    <string name="preview_rule_mask_vault">Three masks open the vault. Pick three doors.</string>
+    <string name="preview_rule_ruby_shards">Every win leaves shards. Shards complete the Collection.</string>
+    <string name="preview_rule_clue_streak">Mask symbols on back-to-back spins multiply mission progress.</string>
+    <string name="preview_rule_nightly_vault">A virtual reward every day you return.</string>
+
+    <string name="bonus_title">MASK VAULT</string>
+    <string name="bonus_picks_left">PICKS LEFT %1$d</string>
+    <string name="bonus_hint">TAP A DOOR TO TURN IT OVER. COLLECT ALL ENDS THE ROUND.</string>
+    <string name="bonus_haul">HAUL %1$s CREDITS - %2$s SHARDS</string>
+    <string name="vault_credits">+%1$d CREDITS</string>
+    <string name="vault_shards">+%1$d SHARDS</string>
+    <string name="vault_clue">+1 CASE CLUE</string>
+    <string name="vault_collect_all">COLLECT ALL</string>
+
+    <string name="case_ballroom">THE BALLROOM</string>
+    <string name="case_jewel_room">THE JEWEL ROOM</string>
+    <string name="case_escape">THE ESCAPE</string>
+    <string name="collection_shards">SHARDS %1$s</string>
+    <string name="collection_case_bonus">CASE BONUS +%1$d%%</string>
+    <string name="collection_cost">%1$d SHARDS</string>
+    <string name="collection_not_enough">NOT ENOUGH SHARDS</string>
+    <string name="collection_empty">NO MASKS RECOVERED YET - SPIN TO FIND SHARDS</string>
+
+    <string name="mission_spin_25">SPIN 25 TIMES</string>
+    <string name="mission_three_masks">LAND 3 MASKS IN ONE GRID</string>
+    <string name="mission_clue_streak">COMPLETE A CLUE STREAK OF 4</string>
+    <string name="mission_unlock_tiles">UNLOCK 3 COLLECTION TILES</string>
+    <string name="mission_vault_twice">ENTER THE MASK VAULT TWICE</string>
+    <string name="mission_claim_nightly">CLAIM A NIGHTLY REWARD</string>
+    <string name="mission_progress">%1$d / %2$d</string>
+    <string name="mission_reward">%1$d SHARDS</string>
+    <string name="missions_empty">ALL CASES CLOSED - NEW LEADS AT MIDNIGHT</string>
+
+    <string name="node_invitation">THE INVITATION</string>
+    <string name="node_first_waltz">THE FIRST WALTZ</string>
+    <string name="node_broken_clasp">THE BROKEN CLASP</string>
+    <string name="node_mirror_hall">THE HALL OF MIRRORS</string>
+    <string name="node_velvet_rope">BEHIND THE VELVET ROPE</string>
+    <string name="node_servants_stair">THE SERVANTS STAIR</string>
+    <string name="node_jewel_room">THE JEWEL ROOM</string>
+    <string name="node_unmasking">THE UNMASKING</string>
+
+    <string name="rewards_subtitle">A VIRTUAL REWARD FOR EVERY NIGHT YOU RETURN TO THE BALL</string>
+    <string name="rewards_day">DAY %1$d</string>
+    <string name="rewards_credits">+%1$d CREDITS</string>
+    <string name="rewards_shards">+%1$d SHARDS</string>
+    <string name="rewards_hours_left">NEXT LEAD IN %1$d HOURS</string>
+    <string name="rewards_streak_cold">THE STREAK WENT COLD - BACK TO DAY 1</string>
+    <string name="rewards_clock_skew">REWARD CLOCK OUT OF STEP - TRY AGAIN LATER</string>
+    <string name="rewards_empty">NO LEADS ON THE LADDER TONIGHT</string>
+
+    <string name="responsible_age_title">18+ ONLY. THIS IS A SOCIAL CASINO.</string>
+    <string name="responsible_age_body">Virtual credits only. There are no deposits, no withdrawals, no purchases and no real-money play of any kind. Nothing here has monetary value.</string>
+    <string name="responsible_odds_title">THE ODDS ARE ENTERTAINMENT, NOT INCOME.</string>
+    <string name="responsible_odds_body">Every grid is drawn at random from one shared symbol pool. A session result predicts nothing, and no return-to-player figure is claimed or implied.</string>
+    <string name="responsible_breaks_title">TAKE BREAKS.</string>
+    <string name="responsible_session_spins">THIS SESSION: %1$d SPINS</string>
+    <string name="responsible_total_spins">ALL TIME: %1$d SPINS</string>
+    <string name="responsible_reminder">BREAK REMINDER EVERY %1$d SPINS</string>
+    <string name="responsible_seed_title">FAIR PLAY SEED</string>
+    <string name="responsible_seed_session">SESSION SEED %1$d</string>
+    <string name="responsible_seed_spin">LAST SPIN SEED %1$d</string>
+
+    <string name="setting_reel_speed">REEL SPEED</string>
+    <string name="speed_relaxed">RELAXED</string>
+    <string name="speed_standard">STANDARD</string>
+    <string name="speed_swift">SWIFT</string>
+    <string name="setting_speed_detail">SPIN %1$d MS - STAGGER %2$d MS</string>
+    <string name="setting_near_win">NEAR-WIN HIGHLIGHT</string>
+    <string name="setting_near_win_detail">Teasing slow stop, ruby glow and the SO CLOSE caption.</string>
+    <string name="setting_contrast">HIGH CONTRAST SYMBOLS</string>
+    <string name="setting_contrast_detail">Brighter cell borders and a light wash behind each symbol.</string>
+    <string name="setting_break">BREAK REMINDER</string>
+    <string name="break_fifty">50</string>
+    <string name="break_hundred">100</string>
+    <string name="break_two_hundred">200</string>
+    <string name="setting_break_detail">REMINDER AFTER %1$d SPINS IN ONE SESSION</string>
+    <string name="setting_reset">RESET CASE FILE</string>
+    <string name="setting_reset_detail">Clears credits, shards, collection, missions and the reward ladder back to first-run defaults.</string>
+    <string name="reset_title">CLOSE THE CASE FOR GOOD?</string>
+    <string name="reset_body">Every recovered mask, shard and mission is wiped and the ballroom starts over from the first invitation.</string>
+</resources>
